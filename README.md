@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas Carvalho</h1>
-<h3 align="center">A passionate web developer from São Paulo, Brazil</h3>
+# Hi 👋, I'm Lucas Carvalho
+### A passionate web developer from São Paulo, Brazil
 
 - 🔭 I’m currently working on [NextPress (WP Utimo)](https://wpultimo.com/) 
 
