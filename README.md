@@ -1,11 +1,9 @@
 # Hi 👋, I'm Lucas Carvalho
 ### A passionate web developer from São Paulo, Brazil
 
-- 🔭 I’m currently working on [NextPress (WP Utimo)](https://wpultimo.com/) 
+- 🔭 I’m currently working at [NextPress (WP Utimo)](https://wpultimo.com/) 
 
-- 🤩 I’m the founder of a website builder platform called [Webei](https://webei.com.br/) 
-
-- 👯 I’m looking to collaborate on **Wordpress**
+- 🤩 I’m the creator of a website builder platform called [Webei](https://webei.com.br/) 
 
 - 🤝 I’m looking for help with [Orkestra Framework](https://github.com/Luc-cpl/orkestra) and [Orkestra WP](https://github.com/Luc-cpl/orkestra-wp)
 
@@ -13,22 +11,35 @@
 
 
 ### Languages and Tools:
-
-<p align="left" dir="auto">
-	<a href="https://wordpress.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/195c9c62c6cdd54edce3142af06650265c28bb037746bbf8ef6bcd02e991dce5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f776f726470726573732f776f726470726573732d74696c652e737667" alt="WordPress" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" style="max-width: 100%;"></a>
-	<a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="30" style="max-width: 100%;"></a>
-	<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" style="max-width: 100%;"></a>
- 	<a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30" style="max-width: 100%;"></a>
-	<a href="https://www.cypress.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" height="30" style="max-width: 100%;"></a>
-	<a href="https://github.com/features/actions"> <img src="https://camo.githubusercontent.com/7b97a7bd82e4113c4f255bb5837b344c963bae182fcddad3ae6d91d0180e12ff/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d74696c652e737667" alt="GitHub Actions" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/github/github-tile.svg" style="max-width: 100%;"></a>
-	<a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30" style="max-width: 100%;"></a>
-	<a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>
-	<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30" style="max-width: 100%;"></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" style="max-width: 100%;"></a>
-	<a href="https://laravel.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="30" style="max-width: 100%;"></a>
-	<a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30" style="max-width: 100%;"></a>
-	<a href="https://redis.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="30" style="max-width: 100%;"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30" style="max-width: 100%;"/> </a>
-  <a href="https://golang.org" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="30" style="max-width: 100%;"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="30" style="max-width: 100%;"/> </a>
-</p>
+<ul>
+	<li>
+		<span>Languages: </span><br>
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/d19e8a5f-7fd4-42c8-9462-5975381655ae" />
+		<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+		<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/d52fd7ca-2d79-4e1e-a047-56f96f752022" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/f442edf7-bc64-4d13-908b-88dbdce71ba0" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/c2016f67-73c2-49d3-8c52-d02f21cf05f7" />
+	</li>
+ 	<li>
+		<span>Databases: </span><br>
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/88380ef3-aa55-4c1b-a145-4c3e9f3c6eed" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/9bc80c97-e96a-4cc8-b378-ad97360b7cef" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/a9812ebb-6a53-4794-9348-47436aa77b31" />
+	</li>
+ 	<li>
+		<span>Frameworks: </span><br>
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/56fb479a-7f90-4b45-9d4c-389f51fdb93e" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/c8a3dbe8-4f52-4574-bed6-3c47b2fdc3a4" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/ae0cea89-46e1-4653-891a-4a386e364dcd" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/dad17c56-37ae-48fe-a4aa-f85a4b48923d" />
+	</li>
+ 	<li>
+		<span>Tools & Technologies: </span><br>
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/d0be4c21-1fea-4960-90ef-5ffdca9654c7" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/7841ef5a-df4f-4102-9587-6c8b86ae6cf8" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/4342f116-a0ea-48d6-a856-37b10da59db3" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/e6174994-eff9-4306-a094-5ff81a1214d9" />
+		<img height=30 src="https://github.com/Luc-cpl/Luc-cpl/assets/20001157/dc6d9cf3-8ec5-4b86-a1ad-566ad618f4a0" />
+	</li>
+</ul>
