@@ -1,9 +1,7 @@
 # Hi 👋, I'm Lucas Carvalho
 ### A passionate web developer from São Paulo, Brazil
 
-- 🔭 I’m currently working at [NextPress (WP Utimo)](https://wpultimo.com/) 
-
-- 🤩 I’m the creator of a website builder platform called [Webei](https://webei.com.br/) 
+- 🔭 I’m currently working at [Naper.AI](https://naper.ai/) 
 
 - 🤝 I’m looking for help with [Orkestra Framework](https://github.com/Luc-cpl/orkestra) and [Orkestra WP](https://github.com/Luc-cpl/orkestra-wp)
 
